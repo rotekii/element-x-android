@@ -100,3 +100,6 @@ lint/tmp/
 .DS_Store
 
 checkouts/**
+.gitsecret/keys/random_seed
+!*.secret
+libraries/pushproviders/firebase/src/main/res/values/firebase.xml
